@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" 
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2026-02-10T03:00:57Z</responseDate>
+                <request verb="ListRecords" metadataPrefix="arXiv">http://oaipmh.arxiv.org/oai</request>
+
+
+    <ListRecords>
+                    <record>
+                <header>
+        <identifier>oai:arXiv.org:adap-org/9710003</identifier>
+        <datestamp>2005-09-17</datestamp>
+            <setSpec>physics:nlin:AO</setSpec>
+    </header>
+
+            <metadata>
+                        <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ https://oaipmh.arxiv.org/OAI/arXiv.xsd">
+        <id>adap-org/9710003</id>
+        <created>1997-10-21</created>
+            <updated>2009-11-30</updated>
+        <authors>
+                <author>
+                    <keyname>Nagel</keyname>
+                        <forenames>Kai</forenames>
+                </author>
+                <author>
+                    <keyname>Stretz</keyname>
+                        <forenames>Paula</forenames>
+                </author>
+                <author>
+                    <keyname>Pieck</keyname>
+                        <forenames>Martin</forenames>
+                </author>
+                <author>
+                    <keyname>Donnelly</keyname>
+                        <forenames>Rick</forenames>
+                </author>
+                <author>
+                    <keyname>Barrett</keyname>
+                        <forenames>Christopher L.</forenames>
+                </author>
+        </authors>
+        <title>TRANSIMS traffic flow characteristics</title>
+            <categories>adap-org nlin.AO</categories>
+            <comments>Paper has 23 pages, 5 figures, 28 diagrams</comments>
+            <report-no>adap-org/9710003</report-no>
+            <abstract>  Knowledge of fundamental traffic flow characteristics of traffic simulation models is an essential requirement when using these models for the planning, design, and operation of transportation systems. In this paper we discuss the following: a description of how features relevant to traffic flow are currently under implementation in the TRANSIMS microsimulation, a proposition for standardized traffic flow tests for traffic simulation models, and the results of these tests for two different versions of the TRANSIMS microsimulation.</abstract>
+    </arXiv>
+
+            </metadata>
+        </record>
+
+                    <record>
+                <header>
+        <identifier>oai:arXiv.org:adap-org/9711001</identifier>
+        <datestamp>2005-09-17</datestamp>
+            <setSpec>physics:nlin:AO</setSpec>
+            <setSpec>q-bio:q-bio</setSpec>
+    </header>
+
+            <metadata>
+                        <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ https://oaipmh.arxiv.org/OAI/arXiv.xsd">
+        <id>adap-org/9711001</id>
+        <created>1997-11-04</created>
+            <updated>2009-11-30</updated>
+        <authors>
+                <author>
+                    <keyname>Sendhoff</keyname>
+                        <forenames>Bernhard</forenames>
+                </author>
+                <author>
+                    <keyname>Kreutz</keyname>
+                        <forenames>Martin</forenames>
+                </author>
+                <author>
+                    <keyname>von Seelen</keyname>
+                        <forenames>Werner</forenames>
+                </author>
+        </authors>
+        <title>A condition for the genotype-phenotype mapping: Causality</title>
+            <categories>adap-org nlin.AO q-bio</categories>
+            <comments>8 pages, LaTeX, 10 eps-figures, (proceedings style, psfig, chicago, graphicx package), postscript also avaliable via http://www.neuroinformatik.ruhr-uni-bochum.de/ini/PEOPLE/bs/serious.html</comments>
+            <journal-ref>T. Baeck (Ed.) (1997) Proceedings of the Seventh International Conference on Genetic Algorithms (ICGA&#39;97), Morgan Kauffman, 73-80</journal-ref>
+            <abstract>  The appropriate choice of the genotype-phenotype mapping in combination with the mutation operator is important for a successful evolutionary search process. We suggest a measure to quantify the quality of this combination by addressing the question whether the relation among distances is carried over from one space to the other. Search processes which do not destroy the neighbourhood structure are termed strongly causal. We apply the proposed measure to parameter and structure optimisation problems in order to assess the combination (mapping, mutation operator) and at the same time to be able to propose improved settings.</abstract>
+    </arXiv>
+
+            </metadata>
+        </record>
+
+                    <record>
+                <header>
+        <identifier>oai:arXiv.org:adap-org/9712001</identifier>
+        <datestamp>2005-09-17</datestamp>
+            <setSpec>physics:nlin:AO</setSpec>
+    </header>
+
+            <metadata>
+                        <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ https://oaipmh.arxiv.org/OAI/arXiv.xsd">
+        <id>adap-org/9712001</id>
+        <created>1997-12-10</created>
+            <updated>2009-11-30</updated>
+        <authors>
+                <author>
+                    <keyname>Nagel</keyname>
+                        <forenames>Kai</forenames>
+                </author>
+        </authors>
+        <title>Experiences with iterated traffic microsimulations in Dallas</title>
+            <categories>adap-org nlin.AO</categories>
+            <comments>to appear in: Traffic and Granular Flow II, edited by M Schreckenberg and D E Wolf</comments>
+            <report-no>Los Alamos Unclassified Report LA-UR 97:4776</report-no>
+            <abstract>  This paper reports experiences with iterated traffic microsimulations in the context of a Dallas study. ``Iterated microsimulations&#39;&#39; here means that the information generated by a microsimulation is fed back into the route planner so that the simulated individuals can adjust their routes to circumvent congestion. This paper gives an overview over what has been done in the Dallas context to better understand the relaxation process, and how to judge the robustness of the results.</abstract>
+    </arXiv>
+
+            </metadata>
+        </record>
+
+                    <record>
+                <header>
+        <identifier>oai:arXiv.org:adap-org/9712004</identifier>
+        <datestamp>2005-09-17</datestamp>
+            <setSpec>physics:nlin:AO</setSpec>
+            <setSpec>q-bio:q-bio</setSpec>
+    </header>
+
+            <metadata>
+                        <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ https://oaipmh.arxiv.org/OAI/arXiv.xsd">
+        <id>adap-org/9712004</id>
+        <created>1997-12-13</created>
+            <updated>2009-11-30</updated>
+        <authors>
+                <author>
+                    <keyname>Chapline</keyname>
+                        <forenames>George</forenames>
+                </author>
+        </authors>
+        <title>Sentient Networks</title>
+            <categories>adap-org nlin.AO q-bio</categories>
+            <comments>PostScript, 14 pages</comments>
+            <abstract>  In this paper we consider the question whether a distributed network of sensors and data processors can form &#34;perceptions&#34; based on the sensory data. Because sensory data can have exponentially many explanations, the use of a central data processor to analyze the outputs from a large ensemble of sensors will in general introduce unacceptable latencies for responding to dangerous situations. A better idea is to use a distributed &#34;Helmholtz machine&#34; architecture in which the collective state of the network as a whole provides an explanation for the sensory data.</abstract>
+    </arXiv>
+
+            </metadata>
+        </record>
+
+                    <record>
+                <header>
+        <identifier>oai:arXiv.org:adap-org/9712005</identifier>
+        <datestamp>2005-09-17</datestamp>
+            <setSpec>physics:nlin:AO</setSpec>
+            <setSpec>q-bio:q-bio</setSpec>
+    </header>
+
+            <metadata>
+                        <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ https://oaipmh.arxiv.org/OAI/arXiv.xsd">
+        <id>adap-org/9712005</id>
+        <created>1997-12-15</created>
+            <updated>2009-11-30</updated>
+        <authors>
+                <author>
+                    <keyname>Newman</keyname>
+                        <forenames>M. E. J.</forenames>
+                </author>
+                <author>
+                    <keyname>Engelhardt</keyname>
+                        <forenames>Robin</forenames>
+                </author>
+        </authors>
+        <title>Effects of neutral selection on the evolution of molecular species</title>
+            <categories>adap-org nlin.AO q-bio</categories>
+            <comments>16 pages including 4 postscript figures, typeset in LaTeX2e using the Elsevier macro package elsart.cls</comments>
+            <report-no>Santa Fe Institute Working Paper 98-01-001</report-no>
+            <journal-ref>Proc. R. Soc. London B 265, 1333-1338 (1998)</journal-ref>
+            <abstract>  We introduce a new model of evolution on a fitness landscape possessing a tunable degree of neutrality. The model allows us to study the general properties of molecular species undergoing neutral evolution. We find that a number of phenomena seen in RNA sequence-structure maps are present also in our general model. Examples are the occurrence of &#34;common&#34; structures which occupy a fraction of the genotype space which tends to unity as the length of the genotype increases, and the formation of percolating neutral networks which cover the genotype space in such a way that a member of such a network can be found within a small radius of any point in the space. We also describe a number of new phenomena which appear to be general properties of neutrally evolving systems. In particular, we show that the maximum fitness attained during the adaptive walk of a population evolving on such a fitness landscape increases with increasing degree of neutrality, and is directly related to the fitness of the most fit percolating network.</abstract>
+    </arXiv>
+
+            </metadata>
+        </record>
+
+                    <record>
+                <header>
+        <identifier>oai:arXiv.org:adap-org/9712006</identifier>
+        <datestamp>2005-09-17</datestamp>
+            <setSpec>physics:nlin:AO</setSpec>
+    </header>
+
+            <metadata>
+                        <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ https://oaipmh.arxiv.org/OAI/arXiv.xsd">
+        <id>adap-org/9712006</id>
+        <created>1997-12-23</created>
+            <updated>2009-11-30</updated>
+        <authors>
+                <author>
+                    <keyname>Savit</keyname>
+                        <forenames>Robert</forenames>
+                </author>
+                <author>
+                    <keyname>Manuca</keyname>
+                        <forenames>Radu</forenames>
+                </author>
+                <author>
+                    <keyname>Riolo</keyname>
+                        <forenames>Rick</forenames>
+                </author>
+        </authors>
+        <title>Adaptive Competition, Market Efficiency, Phase Transitions and Spin-Glasses</title>
+            <categories>adap-org nlin.AO</categories>
+            <comments>A tar.gz file with three postscript files: 16 pages of text, figure 1, and figures 2-6</comments>
+            <report-no>PSCS-97-12-001</report-no>
+            <abstract>  We analyze a simple model of adaptive competition which captures essential features of a variety of adaptive competitive systems in the social and biological sciences. Each of N agents, at each time step of a game, joins one of two groups. The agents in the minority group are awarded a point, while the agents in the majority group get nothing. Each agent has a fixed set of strategies drawn at the beginning of the game from a common pool, and chooses his current best-performing strategy to determine which group to join. For a fixed N, the system exhibits a phase change as a function of the size of the common strategy pool from which the agents initially draw their strategies. For small pool sizes, the system is in an efficient market phase. All information that can be used by the agents&#39; strategies is traded away, no agent can accumulate more points than would an agent making random guesses, and thus the commons suffer,since relatively few points are awarded to the agents in total. For large initial strategy pool sizes, the system is in an inefficient market phase, in which there is predictive information available to the agents&#39; strategies, and some agents can do better than random at accumulating points. In this phase, the total number of points awarded to the agents is greater than in a game in which all agents guess randomly, and so the commons do relatively well. At a critical size of the strategy pool marking the cross-over from the efficient market to the inefficient market phases, the commons do best. This critical size of the pool grows monotonically with N. The behavior of this system has some features reminiscent of a spin-glass.</abstract>
+    </arXiv>
+
+            </metadata>
+        </record>
+
+                    <record>
+                <header>
+        <identifier>oai:arXiv.org:adap-org/9801001</identifier>
+        <datestamp>2005-09-17</datestamp>
+            <setSpec>physics:nlin:AO</setSpec>
+    </header>
+
+            <metadata>
+                        <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ https://oaipmh.arxiv.org/OAI/arXiv.xsd">
+        <id>adap-org/9801001</id>
+        <created>1997-12-31</created>
+            <updated>2009-11-30</updated>
+        <authors>
+                <author>
+                    <keyname>Periwal</keyname>
+                        <forenames>Vipul</forenames>
+                </author>
+        </authors>
+        <title>Geometric statistical inference</title>
+            <categories>adap-org nlin.AO</categories>
+            <comments>7 pages, RevTeX</comments>
+            <report-no>PUPT-1741</report-no>
+            <abstract>  Finite sample size corrections to the reparametrization-invariant solution of the inverse problem of probability are computed, and shown to converge uniformly to the correct distribution.</abstract>
+    </arXiv>
+
+            </metadata>
+        </record>
+
+                    <record>
+                <header>
+        <identifier>oai:arXiv.org:adap-org/9801003</identifier>
+        <datestamp>2005-09-17</datestamp>
+            <setSpec>physics:nlin:AO</setSpec>
+            <setSpec>physics:cond-mat:stat-mech</setSpec>
+            <setSpec>q-bio:q-bio</setSpec>
+    </header>
+
+            <metadata>
+                        <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ https://oaipmh.arxiv.org/OAI/arXiv.xsd">
+        <id>adap-org/9801003</id>
+        <created>1998-01-25</created>
+            <updated>2009-11-30</updated>
+        <authors>
+                <author>
+                    <keyname>Caldarelli</keyname>
+                        <forenames>Guido</forenames>
+                </author>
+                <author>
+                    <keyname>Higgs</keyname>
+                        <forenames>Paul G.</forenames>
+                </author>
+                <author>
+                    <keyname>McKane</keyname>
+                        <forenames>Alan J.</forenames>
+                </author>
+        </authors>
+        <title>Modelling coevolution in multispecies communities</title>
+            <categories>adap-org cond-mat.stat-mech nlin.AO q-bio</categories>
+            <comments>21 pages, 3 Postscript figures, uses psfig.sty Affiliations corrected</comments>
+            <abstract>  We introduce the Webworld model, which links together the ecological modelling of food web structure with the evolutionary modelling of speciation and extinction events. The model describes dynamics of ecological communities on an evolutionary timescale. Species are defined as sets of characteristic features, and these features are used to determine interaction scores between species. A simple rule is used to transfer resources from the external environment through the food web to each of the species, and to determine mean population sizes. A time step in the model represents a speciation event. A new species is added with features similar to those of one of the existing species and a new food web structure is then calculated. The new species may (i) add stably to the web, (ii) become extinct immediately because it is poorly adapted, or (iii) cause one or more other species to become extinct due to competition for resources. We measure various properties of the model webs and compare these with data on real food webs. These properties include the proportions of basal, intermediate and top species, the number of links per species and the number of trophic levels. We also study the evolutionary dynamics of the model ecosystem by following the fluctuations in the total number of species in the web. Extinction avalanches occur when novel organisms arise which are significantly better adapted than existing ones. We discuss these results in relation to the observed extinction events in the fossil record, and to the theory of self-organized criticality.</abstract>
+    </arXiv>
+
+            </metadata>
+        </record>
+
+                    <record>
+                <header>
+        <identifier>oai:arXiv.org:adap-org/9801004</identifier>
+        <datestamp>2005-09-17</datestamp>
+            <setSpec>physics:nlin:AO</setSpec>
+    </header>
+
+            <metadata>
+                        <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ https://oaipmh.arxiv.org/OAI/arXiv.xsd">
+        <id>adap-org/9801004</id>
+        <created>1998-02-04</created>
+            <updated>2009-11-30</updated>
+        <authors>
+                <author>
+                    <keyname>Karlin</keyname>
+                        <forenames>Ilya V.</forenames>
+                </author>
+                <author>
+                    <keyname>Zmievskii</keyname>
+                        <forenames>V. B.</forenames>
+                </author>
+        </authors>
+        <title>Invariant closure for the Fokker-Planck equation</title>
+            <categories>adap-org nlin.AO</categories>
+            <comments>4 pages, 2 tables</comments>
+            <abstract>  We develop the principle of dynamic invariance to obtain closed moment equations from the Fokker-Planck kinetic equation. The analysis is carried out to explicit formulae for computation of the lowest eigenvalue and of the corresponding eigenfunction for arbitrary potentials.</abstract>
+    </arXiv>
+
+            </metadata>
+        </record>
+
+                    <record>
+                <header>
+        <identifier>oai:arXiv.org:adap-org/9802002</identifier>
+        <datestamp>2005-09-17</datestamp>
+            <setSpec>physics:nlin:AO</setSpec>
+            <setSpec>q-bio:q-bio</setSpec>
+    </header>
+
+            <metadata>
+                        <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ https://oaipmh.arxiv.org/OAI/arXiv.xsd">
+        <id>adap-org/9802002</id>
+        <created>1998-02-13</created>
+            <updated>2009-11-30</updated>
+        <authors>
+                <author>
+                    <keyname>Furusawa</keyname>
+                        <forenames>Chikara</forenames>
+                </author>
+                <author>
+                    <keyname>Kaneko</keyname>
+                        <forenames>Kunihiko</forenames>
+                </author>
+        </authors>
+        <title>Emergence of Rules in Cell Society: Differentiation, Hierarchy, and Stability</title>
+            <categories>adap-org nlin.AO q-bio</categories>
+            <comments>23 pages Latex, 15 black and white and 2 color Postscript figures, to be published in Bull. Math. Biol</comments>
+            <report-no>Depertment of Pure and Applied Sciences, University of Tokyo, DPAS-UT-98-02</report-no>
+            <abstract>  A dynamic model for cell differentiation is studied, where cells with internal chemical reaction dynamics interact with each other and replicate. It leads to spontaneous differentiation of cells and determination, as is discussed in the isologous diversification. Following features of the differentiation are obtained: (1)Hierarchical differentiation from a ``stem&#39;&#39; cell to other cell types, with the emergence of the interaction-dependent rules for differentiation; (2)Global stability of an ensemble of cells consisting of several cell types, that is sustained by the emergent, autonomous control on the rate of differentiation; (3)Existence of several cell colonies with different cell-type distributions. The results provide a novel viewpoint on the origin of complex cell society, while relevance to some biological problems, especially to the hemopoietic system, is also discussed.</abstract>
+    </arXiv>
+
+            </metadata>
+        </record>
+
+                    <record>
+                <header>
+        <identifier>oai:arXiv.org:adap-org/9803001</identifier>
+        <datestamp>2005-09-17</datestamp>
+            <setSpec>physics:nlin:AO</setSpec>
+            <setSpec>physics:physics:bio-ph</setSpec>
+            <setSpec>q-bio:q-bio</setSpec>
+    </header>
+
+            <metadata>
+                        <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ https://oaipmh.arxiv.org/OAI/arXiv.xsd">
+        <id>adap-org/9803001</id>
+        <created>1998-03-10</created>
+            <updated>2009-11-30</updated>
+        <authors>
+                <author>
+                    <keyname>Wilke</keyname>
+                        <forenames>C.</forenames>
+                </author>
+                <author>
+                    <keyname>Altmeyer</keyname>
+                        <forenames>S.</forenames>
+                </author>
+                <author>
+                    <keyname>Martinetz</keyname>
+                        <forenames>T.</forenames>
+                </author>
+        </authors>
+        <title>Large-scale evolution and extinction in a hierarchically structured environment</title>
+            <categories>adap-org nlin.AO physics.bio-ph q-bio</categories>
+            <comments>8 pages LaTeX with 4 figures, includes alife6.sty</comments>
+            <journal-ref>Proc. of &#34;Artificial Life VI&#34;, Los Angeles, June 26-29, 1998; C. Adami, R. Belew, H. Kitano, and C. Taylor, eds., MIT Press (1998)</journal-ref>
+            <abstract>  A class of models for large-scale evolution and mass extinctions is presented. These models incorporate environmental changes on all scales, from influences on a single species to global effects. This is a step towards a unified picture of mass extinctions, which enables one to study coevolutionary effects and external abiotic influences with the same means. The generic features of such models are studied in a simple version, in which all environmental changes are generated at random and without feedback from other parts of the system.</abstract>
+    </arXiv>
+
+            </metadata>
+        </record>
+
+                 
+
+                    <resumptionToken expirationDate='2026-02-11T00:00:00Z'>verb%3DListRecords%26metadataPrefix%3DarXiv%26skip%3D6000</resumptionToken>
+
+    </ListRecords>
+</OAI-PMH>
